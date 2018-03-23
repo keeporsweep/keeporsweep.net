@@ -11,8 +11,5 @@ FOLDER=$(pwd)
 # "tr -d '\0'" gets rid of "command substitution: ignored null byte in input"
 RANDOMFILE=$(find "$FOLDER" -type f -print0 | shuf -zn1 | tr -d '\0')
 
-# Find the filetype and isolate it
-FILETYPE=$(file --mime-type "$RANDOMFILE" | cut -d ":" -f2-)
-
 # Open file with relevant app
 xdg-open "$RANDOMFILE"
