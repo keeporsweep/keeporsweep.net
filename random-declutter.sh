@@ -15,12 +15,4 @@ RANDOMFILE=$(find "$FOLDER" -type f -print0 | shuf -zn1 | tr -d '\0')
 FILETYPE=$(file --mime-type "$RANDOMFILE" | cut -d ":" -f2-)
 
 # Open file with relevant app
-if [[ "$FILETYPE" = *"image"* ]]; then
-  eog "$RANDOMFILE"
-elif [[ "$FILETYPE" = *"pdf"* ]]; then
-  evince "$RANDOMFILE"
-elif [[ "$FILETYPE" = *"text"* ]]; then
-  gedit "$RANDOMFILE"
-else
-  echo "$FILETYPE not supported yet"
-fi
+xdg-open "$RANDOMFILE"
