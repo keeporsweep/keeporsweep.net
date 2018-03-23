@@ -7,7 +7,7 @@ Have fun while cleaning up your digital life
 
 ## How it works
 
-Show a random object from different sources:
+Show _one_ random object at a time, from different sources:
 - Files: pictures, notes, …
 - Mails
 - Contacts
@@ -23,17 +23,23 @@ Show a random object from different sources:
 - people can add their own modules, like If This Then That
 - …
 
-Swipe right to keep or swipe left to delete, tap to open. Deletions fill a counter.
-Possible further actions: favorite, share, etc.
+Swipe right to keep or swipe left to delete, tap to open. Deletions fill a counter. Possible further actions: favorite, share, etc.
 
 Optionally limit to:
 - Only things older than 3 months
 - Don’t show already favorited things
 
-Apps for: Desktop, Android, iOS, Nextcloud
 
-Nice animations: https://daneden.github.io/animate.css/
-Card swipe JS library: https://github.com/gajus/swing
+## Implementation
+
+- Possibly as app for: Desktop, Android, iOS, Nextcloud
+- Terminal command to find random file: `find ~ -type f -print0 | shuf -zn1`
+	- Expanded functionality in `random-declutter.sh` script
+- In Nextcloud it could be done via: Write own controller, get the userFolder, do a search with a random letter on that, and then take a random result (be sure to check if it is a file)
+- Maybe helpful for Twitter operations: [random-tweet](https://github.com/michaelbutler/random-tweet)
+
+- Should have [nice animations](https://daneden.github.io/animate.css/)
+- Probably use a [card swipe JS library](https://github.com/gajus/swing)
 
 
 
@@ -46,12 +52,7 @@ Card swipe JS library: https://github.com/gajus/swing
 - [Mailstrom](https://mailstrom.co/): helps manage your email with lots of filters, no randomness
 - [Manageflitter](https://manageflitter.com/): helps unfollowing people on Twitter, with lots of filters but no randomness
 - [Octobox](https://octobox.io/): helps manage Github issues with lots of filters, no randomness
-- [random-tweet](https://github.com/michaelbutler/random-tweet): command-line only it seems
 - [Random Decluttering Generator](http://less-stuff.co.uk/random-decluttering-generator/): for physical things
-- Terminal command: `find ~ -type f -print0 | shuf -zn1`
-
-In Nextcloud it could be done via:
-> You can write your own controller. Get the userFolder. And do a search with a random letter on that indeed. And then take a random result (be sure to check if it is a file)
 
 
 
