@@ -13,5 +13,10 @@ FOLDER=$(pwd)
 # https://stackoverflow.com/questions/46163678/get-rid-of-warning-command-substitution-ignored-null-byte-in-input/46163991#46163991
 RANDOMFILE=$(find "$FOLDER" -not -path '*/\.*' -type f -print0 | shuf -zn1 | tr -d '\0')
 
-# Open file with relevant app
-xdg-open "$RANDOMFILE"
+# Open file with relevant app, also checking for operating system
+# https://stackoverflow.com/questions/3466166/how-to-check-if-running-in-cygwin-mac-or-linux/17072017#17072017
+if [ "$(uname)" == "Darwin" ]; then
+  open "$RANDOMFILE" # macOS
+elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
+  xdg-open "$RANDOMFILE" # Linux
+fi
