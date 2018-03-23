@@ -16,9 +16,11 @@ Show _one_ random object at a time, from different sources:
 - text messages, Signal
 - browser: tabs, bookmarks, extensions, Pocket, …
 - map markers
-- Twitter: Tweets, favorites, follows, authorized apps, …
+- Twitter: Tweets, favorites, follows, direct messages, authorized apps, …
 - Github: notifications, stars, repos, watched repos, follows, authorized apps, …
 - Youtube: subscriptions, favorites
+- Steam: games, wishlist
+- Meetup: groups
 - expired Passbook passes
 - people can add their own modules, like If This Then That
 - …
@@ -28,6 +30,7 @@ Swipe right to keep or swipe left to delete, tap to open. Deletions fill a count
 Optionally limit to:
 - Only things older than 3 months
 - Don’t show already favorited things
+- Archive instead of delete
 
 
 ## Implementation
@@ -60,4 +63,3 @@ Optionally limit to:
 
 - [»How Clutter Affects Your Brain (and What You Can Do About It)« from lifehacker.com](https://lifehacker.com/how-clutter-affects-your-brain-and-what-you-can-do-abo-662647035)
 - [Zeromalist](http://verekia.com/zeromalist/)
-
