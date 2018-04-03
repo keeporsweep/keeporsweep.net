@@ -36,14 +36,8 @@ Optionally limit to:
 ## Implementation
 
 - Possibly as app for: Desktop, Android, iOS, Nextcloud
-- Terminal command to find random file: `find ~ -type f -print0 | shuf -zn1`
-	- Expanded functionality in `random-declutter.sh` script
-	- (On macOS you need to [install coreutils](https://apple.stackexchange.com/questions/142860/install-shuf-on-os-x/142864) and then use gshuf)
-- In Nextcloud it could be done via: Write own controller, get the userFolder, do a search with a random letter on that, and then take a random result (be sure to check if it is a file)
-- Maybe helpful for Twitter operations: [random-tweet](https://github.com/michaelbutler/random-tweet)
-
-- Should have [nice animations](https://daneden.github.io/animate.css/)
-- Probably use a [card swipe JS library](https://github.com/gajus/swing)
+- Very basic prototype shell script at `keeporsweep.sh` (On macOS you need to [install coreutils](https://apple.stackexchange.com/questions/142860/install-shuf-on-os-x/142864) and then use gshuf)
+- A [Nextcloud](https://nextcloud.com) app is in the works at https://github.com/keeporsweep/keeporsweep
 
 
 
