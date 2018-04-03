@@ -1,8 +1,8 @@
-# 💻🔀🗑️ Random declutter
+# 💻🔀🗑️ Keep or Sweep
 
 **Tech companies help you amass data – we help you clean it**
 
-Have fun while cleaning up your digital life
+Have fun while decluttering your digital life, randomly!
 
 
 ## How it works

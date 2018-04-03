@@ -1,7 +1,7 @@
 #!/bin/bash
-# 💻🔀🗑️ Random declutter
+# 💻🔀🗑️ Keep or Sweep
 # Show a random file so you can clean your stuff
-# Simply make executable and click (or run as bash random-declutter.sh)
+# Simply make executable and click (or run as bash keeporsweep.sh)
 # Jan-Christoph Borchardt, http://jancborchardt.net
 
 # Use the current folder for now
