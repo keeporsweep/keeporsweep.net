@@ -2,7 +2,7 @@
 # 💻🔀🗑️ Keep or Sweep
 # Show a random file so you can clean your stuff
 # Simply make executable and click (or run as bash keeporsweep.sh)
-# Jan-Christoph Borchardt, http://jancborchardt.net
+# http://keeporsweep.net
 
 # Use the current folder for now
 FOLDER=$(pwd)
