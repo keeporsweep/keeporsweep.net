@@ -1,21 +1,21 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/keeporsweep/keeporsweep.net/master/images/icon-256.png" height="128">
 </p>
-<h3 align="center"><a href="http://keeporsweep.net">Keep or Sweep</a></h3>
+<h1 align="center"><a href="http://keeporsweep.net">Keep or Sweep</a></h1>
 <p align="center">Randomly declutter your digital life!<p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/keeporsweep/keeporsweep.net/master/images/screenshot-desktop.png" height="500">
 </p>
 
-**Tech companies help you amass data – we help you clean it by having fun while getting things done! 😊** You will see one random element of your data at a time and you decide whether to ✅keep or ❌sweep it.
+<p><strong>Tech companies help you amass data – we help you clean it by having fun while getting things done! 😊</strong> You will see one random element of your data at a time and you decide whether to ✅keep or ❌sweep it.</p>
 
 
 
-## Install
+<h2>Install</h2>
 
-Download for [⊞Windows](https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.exe), [🍏macOS](https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.app.zip) & [🐧Linux](https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep-Linux.Sweep). And if you like it, [come contribute](https://github.com/keeporsweep/keeporsweep-desktop)!
+<p>Download for <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.exe">⊞Windows</a>, <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.app.zip">🍏macOS</a> & <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep-Linux.Sweep">🐧Linux</a>. And if you like it, <a href="https://github.com/keeporsweep/keeporsweep-desktop">come contribute</a>!</p>
 
-Also available as [☁️Nextcloud app](https://apps.nextcloud.com/apps/keeporsweep) – [contributions welcome](https://github.com/keeporsweep/keeporsweep) too! 😍
+<p>Also available as <a href="https://apps.nextcloud.com/apps/keeporsweep">☁️Nextcloud app</a> – <a href="https://github.com/keeporsweep/keeporsweep">contributions welcome</a> too! 😍</p>
 
 
 
