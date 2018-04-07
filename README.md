@@ -7,13 +7,11 @@
     <img src="https://raw.githubusercontent.com/keeporsweep/keeporsweep.net/master/images/screenshot-desktop.png" height="500">
 </p>
 
-**Tech companies help you amass data – we help you clean it**
-
-Have fun while getting things done! 😊 You will see a random element of your data at a time and you decide whether to ✅keep or ❌sweep it.
+**Tech companies help you amass data – we help you clean it by having fun while getting things done! 😊** You will see one random element of your data at a time and you decide whether to ✅keep or ❌sweep it.
 
 
 
-## Start keeping or sweeping!
+## Install
 
 Download for [⊞Windows](https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.exe), [🍏macOS](https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.app.zip) & [🐧Linux](https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep-Linux.Sweep). And if you like it, [come contribute](https://github.com/keeporsweep/keeporsweep-desktop)!
 
@@ -35,8 +33,8 @@ The plan is to make this extendable so you can randomly clean your:
 - [ ] 🐦 Twitter: Tweets, favorites, follows, direct messages, authorized apps, …
 - [ ] 🐙🐱 Github: notifications, stars, repos, watched repos, follows, authorized apps, …
 - [ ] 📼 Youtube: subscriptions, favorites
-- [ ] 💨 Steam: games, wishlist
-- [ ] 🤝 Meetup: groups
+- [ ] 💨 Steam: games, wishlist, inventory, friends
+- [ ] 🤝 Meetup: groups, messages
 - [ ] 🛂 expired Passbook passes
 - [ ] 🎉 … anything you can imagine! You could add your own module :)
 
