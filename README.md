@@ -40,6 +40,14 @@ The plan is to make this extendable so you can randomly clean your:
 
 
 
+## Build a button
+
+![](button/button.jpg)
+
+We have a tutorial on how to build a [🔴 big button for Keep or Sweep](button/Button tutorial.md)! :)
+
+
+
 ## Related & inspiration
 
 - [Triage](http://triage.cc/): for iOS and only for unread mails, not random
