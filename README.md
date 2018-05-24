@@ -31,7 +31,7 @@ The plan is to make this extendable so you can randomly clean your:
 - [ ] 🌐 browser: tabs, bookmarks, extensions, Pocket, …
 - [ ] 🗺️ map markers / favorites
 - [ ] 🐦 Twitter: Tweets, favorites, follows, direct messages, authorized apps, …
-- [ ] 🐙🐱 Github: notifications, stars, repos, watched repos, follows, authorized apps, …
+- [ ] 🐙🐱 GitHub: notifications, stars, repos, watched repos, follows, authorized apps, …
 - [ ] 📼 Youtube: subscriptions, favorites
 - [ ] 💨 Steam: games, wishlist, inventory, friends
 - [ ] 🤝 Meetup: groups, messages
@@ -40,7 +40,7 @@ The plan is to make this extendable so you can randomly clean your:
 
 
 
-## Related apps
+## Related & inspiration
 
 - [Triage](http://triage.cc/): for iOS and only for unread mails, not random
 - [Plain](http://www.plainemail.com/): prototype for macOS and Gmail only, not random
@@ -49,8 +49,14 @@ The plan is to make this extendable so you can randomly clean your:
 - [Deseat.me](https://www.deseat.me/), [JustDelete.me](http://justdelete.me), [AccountKiller](https://www.accountkiller.com/en/): deleting accounts, not random
 - [Mailstrom](https://mailstrom.co/): helps manage your email with lots of filters, no randomness
 - [Manageflitter](https://manageflitter.com/): helps unfollowing people on Twitter, with lots of filters but no randomness
-- [Octobox](https://octobox.io/): helps manage Github issues with lots of filters, no randomness
+- [Octobox](https://octobox.io/): helps manage GitHub issues with lots of filters, no randomness
 - [Random Decluttering Generator](http://less-stuff.co.uk/random-decluttering-generator/): for physical things
+- [Go to random tab](https://github.com/mikl/browser-go-to-random-tab): browser extension [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/go-to-random-tab/) (also works on Firefox mobile)
+- [Random Unusual Wikipedia new tab](https://addons.mozilla.org/en-US/firefox/addon/random-wikipedia-new-tab/): gives you a random (or random from a set) Wikipedia page on opening a new tab – great for learning something instead when you wanted to open Reddit or the like ;)
+- [Random Bookmark](https://addons.mozilla.org/en-US/android/addon/random-bookmark-addon/): load random bookmark (not compatible with latest Firefox, it seems)
+- [random-tweet](https://github.com/michaelbutler/random-tweet): command line script for returning random tweet based on an input keyword
+- [Randomly picking a GitHub issue](https://www.burntfen.com/2014-12-26/14-56-randomly-picking-a-github-issue): command line snippet for issues assigned to you
+- [Solve this random GitHub issue](https://tevko.github.io/practice/github.html): shows you a completely random GitHub issue, not even related to you
 - Very basic prototype shell script at `keeporsweep.sh` (On macOS you need to [install coreutils](https://apple.stackexchange.com/questions/142860/install-shuf-on-os-x/142864) and then use gshuf)
 - And the aliases with which it all started (put them in your `.bashrc` if you want to try):
 ```
