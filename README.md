@@ -44,7 +44,7 @@ The plan is to make this extendable so you can randomly clean your:
 
 ![](button/button.jpg)
 
-We have a tutorial on how to build a [🔴 big button for Keep or Sweep](button/Button tutorial.md)! :)
+We have a tutorial on how to build a [🔴 big button for Keep or Sweep](https://github.com/keeporsweep/keeporsweep.net/blob/master/button/Button%20tutorial.md)! :)
 
 
 

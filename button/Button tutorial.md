@@ -1,6 +1,6 @@
 # 🔴 Building a big button
 
-For [🔀 Keep or Sweep](http://keeporsweep.net) or whatever you can imagine. :)
+For [🔀 Keep or Sweep](http://keeporsweep.net) or whatever you can imagine. 😊
 ![](button.jpg)
 
 Inspired by the [awesome button](https://makezine.com/projects/the-awesome-button/) and [The Button](http://rasterweb.net/raster/2011/05/09/the-button/).
@@ -15,7 +15,7 @@ Inspired by the [awesome button](https://makezine.com/projects/the-awesome-butto
 - optional: [Cable bushing (like 12mm EAN 2050000168062)](https://www.voelkner.de/products/39731/Kabeldurchfuehrung-Klemm-max.-12mm-PVC-Schwarz-1St..html) (for nicer look)
 - optional: Two component glue (to fix the USB cable to the cable bushing)
 
-I ordered everything at [Voelkner](https://www.voelkner.de/), but use whatever you prefer. I also got 2 of each to have separate buttons for [🔀 Keep or Sweep](http://keeporsweep.net).
+I ordered everything at [Voelkner](https://www.voelkner.de/), and got 2 of each to have separate buttons for [🔵Keep or 🔴Sweep](http://keeporsweep.net).
 
 
 ## Tools you need
@@ -27,19 +27,19 @@ I ordered everything at [Voelkner](https://www.voelkner.de/), but use whatever y
 
 ## Steps to build
 
-1. Follow the [tutorial to install Arduino and Teensyduino](https://www.pjrc.com/teensy/tutorial.html) on your computer. In the process you will connect the Teensy to your computer.
+1. **[Install Arduino and Teensyduino](https://www.pjrc.com/teensy/tutorial.html)** on your computer. In the process you will connect the Teensy to your computer.
 
-2. Connect the switch in the button (I used the green one) to the Teensy using wires like this – one wire to GND, the other to C7:
+2. **Connect the switch** in the button (I used the green one) to the Teensy using wires like this – one wire to GND, the other to C7:
 ![](button-connection.jpg)
 (Optionally solder these connections. Based on wiring of [The Button / Another Button](http://rasterweb.net/raster/2011/06/27/another-button/).)
 
-3. Get the code for Keep.ino (Space) or Sweep.ino (Delete), modify if needed, and transfer it to your Teensy with Arduino & Teensyduino. (Based on the code from [The Button](http://rasterweb.net/raster/2011/05/09/the-button/).)
+3. **Get the code** for Keep.ino (Space) or Sweep.ino (Delete), modify if needed, and transfer it to your Teensy with Arduino & Teensyduino. (Based on the code from [The Button](http://rasterweb.net/raster/2011/05/09/the-button/).)
 
-4. Test if everything works, put the switch and Teensy in the casing, and screw the top half on:
+4. **Test** if everything works, put the switch and Teensy in the casing, and screw the top half on:
 ![](button-assembly.jpg)
 
 5. Optional: Put on the rubber feet and the cable bushing for nicer finish.
 
 
-And you should be done with your plug-and-play button! 🎉
-![](button.jpg)
+**And you should be done with your plug-and-play button! 🎉**
+![](button-action.jpg)
