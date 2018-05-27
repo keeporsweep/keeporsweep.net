@@ -7,7 +7,7 @@ Inspired by the [awesome button](https://makezine.com/projects/the-awesome-butto
 
 ## Supplies to order
 
-- **[🔴 Eaton FAK-R/KC11/I big red button](https://ecat.eaton.com/catalog?deeplink=jkfk5)** (for ~37 € at [Voelkner](https://www.voelkner.de/products/144409/Eaton-FAK-R-KC11-I-Fuss-Grobhandtaster-230-V-AC-6A-1-x-Aus-Ein-IP67-tastend-1St..html), goes for ~70 € elsewhere)
+- **[🔴 Eaton FAK-R/KC11/I big red button](https://ecat.eaton.com/catalog?deeplink=jkfk5)** (for ~37 € at [Voelkner](https://www.voelkner.de/products/144409/Eaton-FAK-R-KC11-I-Fuss-Grobhandtaster-230-V-AC-6A-1-x-Aus-Ein-IP67-tastend-1St..html), goes for ~70 € elsewhere) – or [3D print it yourself!](https://www.thingiverse.com/thing:1406545)
 - **[📻 Teensy 2.0 microcontroller](https://pjrc.com/store/teensy.html)**
 - **🔌 Mini-USB to USB cable** (as Teensy 2.0 uses Mini-USB)
 - **🐍 ~10 cm of wire** (to connect Teensy to switch)
