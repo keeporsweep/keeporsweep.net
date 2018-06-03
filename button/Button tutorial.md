@@ -33,7 +33,7 @@ I ordered everything at [Voelkner](https://www.voelkner.de/), and got 2 of each 
 ![](button-connection.jpg)
 (Optionally solder these connections. Based on wiring of [The Button / Another Button](http://rasterweb.net/raster/2011/06/27/another-button/).)
 
-3. **Get the code** for Keep.ino (Space) or Sweep.ino (Delete), modify if needed, and transfer it to your Teensy with Arduino & Teensyduino. (Based on the code from [The Button](http://rasterweb.net/raster/2011/05/09/the-button/).)
+3. **Get the code** for [Keep.ino (Space)](https://github.com/keeporsweep/keeporsweep.net/blob/master/button/Keep.ino) or [Sweep.ino (Delete)](https://github.com/keeporsweep/keeporsweep.net/blob/master/button/Sweep.ino), modify if needed, and transfer it to your Teensy with Arduino & Teensyduino. (Based on the code from [The Button](http://rasterweb.net/raster/2011/05/09/the-button/).)
 
 4. **Test** if everything works, put the switch and Teensy in the casing, and screw the top half on:
 ![](button-assembly.jpg)
