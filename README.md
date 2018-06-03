@@ -4,7 +4,7 @@
 <h1 align="center"><a href="http://keeporsweep.net">Keep or Sweep</a></h1>
 <p align="center">Randomly declutter your digital life!<p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/keeporsweep/keeporsweep.net/master/images/screenshot-desktop.png" height="500">
+    <img src="https://raw.githubusercontent.com/keeporsweep/keeporsweep.net/master/images/screenshot.png" height="500">
 </p>
 
 <p><strong>Tech companies help you amass data – we help you clean it by having fun while getting things done! 😊</strong> You will see one random element of your data at a time and you decide whether to ✅keep or ❌sweep it.</p>
