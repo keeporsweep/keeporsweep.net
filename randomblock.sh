@@ -15,6 +15,7 @@ RANDOMFILE=$(find "$FOLDER" -not -path '*/\.*' -type f -print0 | shuf -zn1 | tr 
 
 # Separate note files to blocks, give out one random block
 # Code from https://stackoverflow.com/a/18539730
+# TODO: Ignore blocks consisting of empty lines
 i=1
 s=1
 declare -a arr
@@ -38,5 +39,9 @@ done < $RANDOMFILE
 
 # Choose index to be a random number from 0 to the length of the array
 # Code from https://stackoverflow.com/a/2388555
+# TODO: Catch division by 0
 selectedblock=${arr[$RANDOM % ${#arr[@]} ]}
+
+echo "$RANDOMFILE"
+echo ""
 echo "$selectedblock"
