@@ -35,11 +35,10 @@ $line" || {
             arr[$i]="$line"
             s=0;
     }
-done < $RANDOMFILE
+done < "$RANDOMFILE"
 
 # Choose index to be a random number from 0 to the length of the array
 # Code from https://stackoverflow.com/a/2388555
-# TODO: Catch division by 0
 selectedblock=${arr[$RANDOM % ${#arr[@]} ]}
 
 echo "$RANDOMFILE"
