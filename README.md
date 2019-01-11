@@ -51,6 +51,7 @@ We have a tutorial on how to build a [🔴 big button for Keep or Sweep](https:/
 ## Related & inspiration
 
 - [Triage](http://triage.cc/): for iOS and only for unread mails, not random
+- [Cleanfox](https://www.cleanfox.io/): for mail deletion and unsubscribing – their new interface is also based on cards & swiping
 - [Plain](http://www.plainemail.com/): prototype for macOS and Gmail only, not random
 - [Data Detox](https://datadetox.myshadow.org/detox): take control of your digital life, made by Mozilla and Tactical Tech
 - [unroll.me](https://unroll.me/): unsubscribing from newsletters, not random
