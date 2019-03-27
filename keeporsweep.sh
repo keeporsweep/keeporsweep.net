@@ -4,8 +4,8 @@
 # Simply make executable and click (or run as bash keeporsweep.sh)
 # http://keeporsweep.net
 
-# Use the current folder for now
-FOLDER=$(pwd)
+# Use the current folder for now, with optional argument for subfolder
+FOLDER=$(pwd)/$1
 
 # Get a random file, ignoring hidden files
 # https://askubuntu.com/questions/266179/how-to-exclude-ignore-hidden-files-and-directories-in-a-wildcard-embedded-find/749708#749708
