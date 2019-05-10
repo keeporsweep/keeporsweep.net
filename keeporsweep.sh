@@ -20,3 +20,13 @@ if [ "$(uname)" == "Darwin" ]; then
 elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
   xdg-open "$RANDOMFILE" # Linux
 fi
+
+# Ask for Keep or Sweep
+# https://stackoverflow.com/questions/226703/how-do-i-prompt-for-yes-no-cancel-input-in-a-linux-shell-script/27875395#27875395
+echo "Keep or Sweep $RANDOMFILE?"
+select ks in "Keep" "Sweep"; do
+  case $ks in
+    Keep ) echo "✔ KEPT $RANDOMFILE"; break;;
+    Sweep ) rm "$RANDOMFILE"; echo "❌ SWEPT $RANDOMFILE!"; exit;;
+  esac
+done
