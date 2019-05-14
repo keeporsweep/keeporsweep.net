@@ -22,7 +22,9 @@
 ## Roadmap
 
 The plan is to make this extendable so you can randomly clean your:
-- [x] 📁 Files, pictures, notes, …
+- [x] 📁 Files, pictures, notes, … → available as Nextcloud app and desktop app, see links above
+- [x] 🐦 Twitter: Tweets, favorites, follows, direct messages, authorized apps, … → prototype now available! https://github.com/keeporsweep/keeporsweep-twitter/
+- [ ] 👥 Facebook: posts, friends, events, … → sadly Facebook does not allow deletion via API, but we have an early prototype at https://github.com/keeporsweep/keeporsweep-facebook
 - [ ] 💌 Mails
 - [ ] 👥 Contacts
 - [ ] 📆 Events
@@ -30,7 +32,6 @@ The plan is to make this extendable so you can randomly clean your:
 - [ ] 💬 text messages, Signal
 - [ ] 🌐 browser: tabs, bookmarks, extensions, Pocket, …
 - [ ] 🗺️ map markers / favorites
-- [ ] 🐦 Twitter: Tweets, favorites, follows, direct messages, authorized apps, …
 - [ ] 🐙🐱 GitHub: notifications, stars, repos, watched repos, follows, authorized apps, …
 - [ ] 📼 Youtube: subscriptions, favorites
 - [ ] 💨 Steam: games, wishlist, inventory, friends
