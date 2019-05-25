@@ -38,7 +38,9 @@ The plan is to make this extendable so you can randomly clean your:
 - [ ] 🤝 Meetup: groups, messages
 - [ ] 🛂 expired Passbook passes
 - [ ] 🎉 … anything you can imagine! You could add your own module :)
-
+- [ ] Keep or Sweep x Wahl-o-mat: Show statements from political parties. Keep = Agree, Sweep = Disagree. Could use data from [Qual-o-mat (Germany only)](https://github.com/gockelhahn/qual-o-mat-data/).
+- [ ] 💸 [Open Collective](https://opencollective.com) donations: Show a random (underfunded) collective, and "Keep" will donate 5 € to it! Ref [their GraphQL API](https://medium.com/open-collective/open-collective-graphql-api-preview-3b42ed1d55ff)
+- [ ] 🍎 When everything is connected through the magical Internet of Things, stuff and food you have which is not being used could automatically gift itself away.
 
 
 ## Build a button
