@@ -25,6 +25,7 @@ The plan is to make this extendable so you can randomly clean your:
 - [x] 📁 Files, pictures, notes, … → available as Nextcloud app and desktop app, see links above
 - [x] 🐦 Twitter: Tweets, favorites, follows, direct messages, authorized apps, … → prototype now available! https://github.com/keeporsweep/keeporsweep-twitter/
 - [ ] 👥 Facebook: posts, friends, events, … → sadly Facebook does not allow deletion via API, but we have an early prototype at https://github.com/keeporsweep/keeporsweep-facebook
+- [ ] 🐘 Mastodon: has some [API libraries](https://docs.joinmastodon.org/api/libraries/#javascript), so could be possible
 - [ ] 💌 Mails
 - [ ] 👥 Contacts
 - [ ] 📆 Events
@@ -53,8 +54,11 @@ We have a tutorial on how to build a [🔴 big button for Keep or Sweep](https:/
 
 ## Related & inspiration
 
+- [Web 2.0 Suicide Machine](http://suicidemachine.org): Helps users tired of MySpace, LinkedIn and Twitter, to "commit suicide in social networks", by automatically "removing their private content and friend relationships" (but without deleting or deactivating their accounts).
 - [Triage](http://triage.cc/): for iOS and only for unread mails, not random
 - [Cleanfox](https://www.cleanfox.io/): for mail deletion and unsubscribing – their new interface is also based on cards & swiping
+- [Cinder](https://apps.apple.com/de/app/cinder-clean-your-contacts/id1409302730): for contact deletion, interface also based on cards & swiping
+- [Gemini Photos](https://apps.apple.com/de/app/gemini-photos/id1277110040): for decluttering photos, has a mode with swiping
 - [Plain](http://www.plainemail.com/): prototype for macOS and Gmail only, not random
 - [Data Detox](https://datadetox.myshadow.org/detox): take control of your digital life, made by Mozilla and Tactical Tech
 - [unroll.me](https://unroll.me/): unsubscribing from newsletters, not random
@@ -65,6 +69,7 @@ We have a tutorial on how to build a [🔴 big button for Keep or Sweep](https:/
 - [Random Decluttering Generator](http://less-stuff.co.uk/random-decluttering-generator/): for physical things
 - [Go to random tab](https://github.com/mikl/browser-go-to-random-tab): browser extension [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/go-to-random-tab/) (also works on Firefox mobile)
 - [Random Unusual Wikipedia new tab](https://addons.mozilla.org/en-US/firefox/addon/random-wikipedia-new-tab/): gives you a random (or random from a set) Wikipedia page on opening a new tab – great for learning something instead when you wanted to open Reddit or the like ;)
+- [randomoji](https://github.com/SaraVieira/randomoji): 🌙 🏨 🐇 ▶️ 😕
 - [Random Bookmark](https://addons.mozilla.org/en-US/android/addon/random-bookmark-addon/): load random bookmark (not compatible with latest Firefox, it seems)
 - [random-tweet](https://github.com/michaelbutler/random-tweet): command line script for returning random tweet based on an input keyword
 - [Randomly picking a GitHub issue](https://www.burntfen.com/2014-12-26/14-56-randomly-picking-a-github-issue): command line snippet for issues assigned to you
