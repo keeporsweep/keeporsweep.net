@@ -24,6 +24,7 @@
 The plan is to make this extendable so you can randomly clean your:
 - [x] 📁 Files, pictures, notes, … → available as Nextcloud app and desktop app, see links above
 - [x] 🐦 Twitter: Tweets, favorites, follows, direct messages, authorized apps, … → prototype now available! https://github.com/keeporsweep/keeporsweep-twitter/
+- [x] 🌐 browser: tabs, bookmarks, extensions, Pocket, … → prototype for bookmarks available as [Keep or Delete Bookmarks extension for Firefox](https://addons.mozilla.org/firefox/addon/keep-or-delete-bookmarks/) ([source code](https://github.com/cadeyrn/keep-or-delete-bookmarks))
 - [ ] 👥 Facebook: posts, friends, events, … → sadly Facebook does not allow deletion via API, but we have an early prototype at https://github.com/keeporsweep/keeporsweep-facebook
 - [ ] 🐘 Mastodon: has some [API libraries](https://docs.joinmastodon.org/api/libraries/#javascript), so could be possible
 - [ ] 💌 Mails
@@ -31,7 +32,6 @@ The plan is to make this extendable so you can randomly clean your:
 - [ ] 📆 Events
 - [ ] 📱 Apps: uninstall, or mute notifications, remove startup programs
 - [ ] 💬 text messages, Signal
-- [ ] 🌐 browser: tabs, bookmarks, extensions, Pocket, …
 - [ ] 🗺️ map markers / favorites
 - [ ] 🐙🐱 GitHub: notifications, stars, repos, watched repos, follows, authorized apps, …
 - [ ] 📼 Youtube: subscriptions, favorites
