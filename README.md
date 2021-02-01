@@ -13,7 +13,7 @@
 
 <h2>Install</h2>
 
-<p>Download for <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.exe">⊞Windows</a>, <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.app.zip">🍏macOS</a> & <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep-Linux.Sweep">🐧Linux</a>. And if you like it, <a href="https://github.com/keeporsweep/keeporsweep-desktop">come contribute</a>!</p>
+<p>Download for <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.exe">🪟Windows</a>, <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep.app.zip">🍏macOS</a> & <a href="https://github.com/keeporsweep/keeporsweep-desktop/releases/download/v0.1.0/Keep-or-Sweep-Linux.Sweep">🐧Linux</a>. And if you like it, <a href="https://github.com/keeporsweep/keeporsweep-desktop">come contribute</a>!</p>
 
 <p>Also available as <a href="https://apps.nextcloud.com/apps/keeporsweep">☁️Nextcloud app</a> – <a href="https://github.com/keeporsweep/keeporsweep">contributions welcome</a> too! 😍</p>
 
